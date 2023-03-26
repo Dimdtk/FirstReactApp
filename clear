@@ -1,0 +1,23 @@
+[33mcommit 5a11c72f66c89fa6419576cd674612e7a2373c54[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Dmitriy Tarasov <tarasovdtk@gmail.com>
+Date:   Thu Mar 16 03:33:38 2023 +0400
+
+    Added properties
+
+[33mcommit f9d1fbd14528afe94e1267807a196b6b58c9df93[m
+Author: Dmitriy Tarasov <tarasovdtk@gmail.com>
+Date:   Wed Mar 15 19:07:43 2023 +0400
+
+    Created My First React App
+
+[33mcommit da2dc25210d8e7d4e024dd73bf1a7a5fb6093b1a[m
+Author: Dmitriy Tarasov <tarasovdtk@gmail.com>
+Date:   Wed Mar 15 18:32:31 2023 +0400
+
+    Created React App
+
+[33mcommit a6d6d003dcb1f90d0dfc35e2f8352490a7341180[m
+Author: Dmitriy Tarasov <tarasovdtk@gmail.com>
+Date:   Tue Mar 14 17:02:15 2023 +0400
+
+    Initialize project using Create React App
